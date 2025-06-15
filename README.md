@@ -69,7 +69,7 @@ The frontend application will run on http://localhost:3000
 
 ## Project Structure
 
-``
+```
 task-management-system/
 ├── backend/
 │   ├── server.js    
@@ -82,7 +82,7 @@ task-management-system/
     │   ├── App.js
     │   └── index.js
     └── package.json
-``
+```
 
 ## API Endpoints
 
