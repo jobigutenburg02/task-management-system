@@ -86,13 +86,13 @@ task-management-system/
 
 ## API Endpoints
 
-- GET /tasks: Get all tasks
+- GET /tasks - Get all tasks
 
-- POST /tasks: Create a new task
+- POST /tasks - Create a new task
 
-- PUT /tasks/:id: Update a task
+- PUT /tasks/:id - Update a task
 
-- DELETE /tasks/:id: Delete a task
+- DELETE /tasks/:id - Delete a task
 
 
 ## Contact
