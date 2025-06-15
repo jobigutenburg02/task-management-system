@@ -1,0 +1,50 @@
+.task-list {
+  margin-top: 20px;
+}
+
+.task-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.task-item {
+  padding: 16px 0;
+  border-bottom: 1px solid #f0f0f0;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.task-item:last-child {
+  border-bottom: none;
+}
+
+.task-content {
+  flex-grow: 1;
+}
+
+.task-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.edit-btn {
+  background-color: transparent;
+  color: black;
+  border-radius: 6px;
+  font-weight: bold;
+  border: 1px solid gray;
+  padding: 6px 12px;
+  font-size: 14px;
+}
+
+.delete-btn {
+  background-color: transparent;
+  color: red;
+  border-radius: 6px;
+  font-weight: bold;
+  border: 1px solid gray;
+  padding: 6px 12px;
+  font-size: 14px;
+}
