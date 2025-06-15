@@ -1,4 +1,4 @@
-### Task Management System
+# Task Management System
 
 ## Overview
 
@@ -20,26 +20,26 @@ A simple task management application built with React for the frontend and Node.
 
 ## Setup instructions
 
-# 1. Clone the repository
+### 1. Clone the repository
 
 ``
 git clone https://github.com/jobigutenburg02/task-management-system.git
 cd task-management-system
 ``
 
-# 2. Navigate to the backend repository
+### 2. Navigate to the backend repository
 
 ``
 cd backend
 ``
 
-# 3. Install dependencies
+### 3. Install dependencies
 
 ``
 npm install
 ``
 
-# 4. Start the backend server
+### 4. Start the backend server
 
 ``
 npm start
@@ -47,19 +47,19 @@ npm start
 
 The backend server will run on http://localhost:5000
 
-# 5. Open a new terminal and navigate to the frontend directory
+### 5. Open a new terminal and navigate to the frontend directory
 
 ``
 cd ../frontend
 ``
 
-# 6. Install dependencies
+### 6. Install dependencies
 
 ``
 npm install
 ``
 
-# 7. Start the React application
+### 7. Start the React application
 
 ``
 npm start
